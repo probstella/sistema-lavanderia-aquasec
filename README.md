@@ -34,7 +34,7 @@ src/
 
 Para executar o sistema:
 
-1. Baixe o arquivo **LavanderiaSistema.jar**
+1. Baixe o arquivo **LavanderiaSistema.jar** e a pasta **data**
 2. Execute com Java instalado:
 
 ```
